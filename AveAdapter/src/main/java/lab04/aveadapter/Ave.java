@@ -1,0 +1,17 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
+ */
+package lab04.aveadapter;
+
+/**
+ *
+ * @author palit
+ */
+public interface Ave {
+    
+    public void voar();
+    
+    public void emitirSom();
+}
+
